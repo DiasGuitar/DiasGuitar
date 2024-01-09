@@ -1,7 +1,7 @@
 Hi 👋 My name is Dias Mukhamedin
 =======================================================================================================================================
 
-🌍 I'm a Front-end Developer based in Kazakhstan, Astana.
+<!-- 🌍 I'm a Front-end Developer based in Kazakhstan, Astana. -->
 
 ### Skills
 
