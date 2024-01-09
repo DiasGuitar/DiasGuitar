@@ -3,6 +3,8 @@ Hi 👋 My name is Dias Mukhamedin
 
 <!-- 🌍 I'm a Front-end Developer based in Kazakhstan, Astana. -->
 
+[My Portfolio](https://diasguitar.github.io/diasmukhamedin/)
+
 ### Skills
 
 <p align="left">
