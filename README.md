@@ -24,3 +24,8 @@ Hi 👋 My name is Dias Mukhamedin
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/dias-mukhamedin/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+
+![image](https://github.com/DiasGuitar/DiasGuitar/assets/121079317/a755917d-2ade-45dd-b946-76a7633a21e0)
+
