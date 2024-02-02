@@ -27,5 +27,5 @@ Hi 👋 My name is Dias Mukhamedin
 
 
 
-![image](https://github.com/DiasGuitar/DiasGuitar/assets/121079317/a755917d-2ade-45dd-b946-76a7633a21e0)
+![image](https://github.com/DiasGuitar/DiasGuitar/assets/121079317/a755917d-2ade-45dd-b946-76a7633a21e0){:width="400px"}
 
